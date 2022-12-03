@@ -23,6 +23,9 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="kmbbgw7d" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2IPsttztjoSbK3PB3ZvBXpSyTam" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -45,7 +48,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Day 1">
+  <component name="RunManager" selected="Cargo.Day 3">
     <configuration name="Day 1" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$/day1" />

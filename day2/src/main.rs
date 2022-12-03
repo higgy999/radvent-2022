@@ -39,13 +39,6 @@ impl RoundOutcome {
 }
 
 impl Opponent {
-    fn as_str(&self) -> &'static str {
-        match self {
-            Opponent::Rock => "A",
-            Opponent::Paper => "B",
-            Opponent::Scissors => "C",
-        }
-    }
     fn parse(string: &str) -> Option<Opponent> {
         match string {
             "A" => Some(Opponent::Rock),
@@ -57,13 +50,6 @@ impl Opponent {
 }
 
 impl You {
-    fn as_str(&self) -> &'static str {
-        match self {
-            You::Rock => "X",
-            You::Paper => "Y",
-            You::Scissors => "Z",
-        }
-    }
     fn parse(string: &str) -> Option<You> {
         match string {
             "X" => Some(You::Rock),
@@ -83,10 +69,10 @@ impl You {
 
 fn main() {
     let p1: i32 = part_one();
-    println!("{}", p1);
+    println!("Score after believed outcome: {}", p1);
 
     let p2: i32 = part_two();
-    println!("{}", p2);
+    println!("Score after real outcome: {}", p2);
 }
 
 fn play_rps(opponent: &Opponent, you: &You) -> Result<RoundOutcome, i32> {
