@@ -10,30 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="432ff52b-7916-4c6a-af8b-d4c750dd6489" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day1/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/Cargo.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/Cargo.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day3/src/main.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/radvent-2022.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day1/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/day1/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

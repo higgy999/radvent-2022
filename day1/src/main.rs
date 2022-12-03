@@ -1,13 +1,9 @@
 use std::fs;
 
 fn main() {
-    println!("Hello, world!");
-
     let contents = fs::read_to_string("input.txt")
         .expect("Should have been able to read the file");
-
-    //println!("{}", contents);
-
+    
     let mut adder:i64 = 0;
     let mut highest:i64 = 0;
     let mut elves_calories:Vec<i64> = Vec::new();
