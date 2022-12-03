@@ -3,8 +3,38 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/day1/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/day2/Cargo.toml" />
+    <cargoProject FILE="$PROJECT_DIR$/day3/Cargo.toml" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="432ff52b-7916-4c6a-af8b-d4c750dd6489" name="Changes" comment="" />
+    <list default="true" id="432ff52b-7916-4c6a-af8b-d4c750dd6489" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day1/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/Cargo.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/Cargo.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day3/src/main.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/radvent-2022.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +43,92 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="kmbbgw7d" />
+  </component>
   <component name="ProjectId" id="2IPsttztjoSbK3PB3ZvBXpSyTam" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "18",
+    "last_opened_file_path": "D:/Users/Joshua/Documents/GitHub/radvent-2022/day3",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
+  <component name="RunManager" selected="Cargo.Day 1">
+    <configuration name="Day 1" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/day1" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day 2" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/day2" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day 3" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <option name="workingDirectory" value="file://$PROJECT_DIR$/day3" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cargo.Day 1" />
+      <item itemvalue="Cargo.Day 2" />
+      <item itemvalue="Cargo.Day 3" />
+    </list>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +139,8 @@
       <updated>1670094771579</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
