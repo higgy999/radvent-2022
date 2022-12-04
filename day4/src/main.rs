@@ -1,8 +1,8 @@
 use std::fs;
 
 fn main() {
-    //part_one();
-    part_two();
+    part_one();
+    //part_two();
 }
 
 fn part_one() {
